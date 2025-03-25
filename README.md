@@ -1,5 +1,5 @@
 # Image-Overhaul-QB-CORE-
-An image overhaul for either ox_inventory item images or qb-inventory item images.
+An image overhaul for either ox_inventory item images or qb-inventory item images. Only works with QBCORE.
 
 ## Installation
 ### qb-inventory installation
