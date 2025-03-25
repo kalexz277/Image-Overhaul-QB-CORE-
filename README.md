@@ -14,5 +14,5 @@ An image overhaul for either ox_inventory item images or qb-inventory item image
 3. Open another file explorer and go to your server resources folder, inside of there locate and open wherever your ox_inventory resource is installed. Then open up the web folder and then the images folder.
 4. Now select all the images you want to use and drag and drop them inside the images folder, it should ask you to replace click yes. (You can press Ctrl + A to select everything inside of a folder).
 
-### Thank you!
-Thank you for installing and using my mod, if you would like to support me just share the mod with your friends!
+### Note
+Thank you for installing and using my mod, if you would like to support me just share the mod with your friends! If you are wondering why I do not have a preview video I will be making one once we have made a custom image for every item [Most likely for qb-inventory first]. This may take some time.
